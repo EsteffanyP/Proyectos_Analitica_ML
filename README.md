@@ -14,6 +14,6 @@ Repositorio con ejercicios y proyectos aplicados de analítica de datos y machin
 | [`Tratamiento de direcciones.ipynb`](./Tratamiento%20de%20direcciones.ipynb) | Procesamiento y estandarización de datos de direcciones | Limpieza de texto, geolocalización |
 | [`BD relacional GeoJSON.ipynb`](./BD%20relacional%20GeoJSON.ipynb) | Trabajo con datos geoespaciales y estructuras de bases de datos relacionales | GeoJSON, SQL |
 
-## Tecnologías
+## Librerías
 
 Python · Pandas · Scikit-learn · TensorFlow/Keras · SQL
